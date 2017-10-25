@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AjcSettings">
+    <option name="ajcPath" value="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.7.3/aspectjtools-1.7.3.jar" />
+    <option name="delegateToJavac" value="true" />
+  </component>
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="ajc" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch0201-hello-world" />
+        <module name="ch0301-dependency-pull" />
+        <module name="ch0302-cdl" />
+        <module name="ch0303-constructor-injection" />
+        <module name="ch0304-setter-injection" />
+        <module name="ch0305-simple-types" />
+        <module name="ch0306-method-injection" />
+        <module name="ch0307-method-replacement" />
+        <module name="ch0308-bean-aliases" />
+        <module name="ch0309-bean-instantiation-mode" />
+        <module name="ch0310-bean-autowiring" />
+        <module name="ch0311-bean-inheritance" />
+        <module name="ch0312-collections" />
+        <module name="ch0313-injection" />
+        <module name="ch0314-nesting" />
+        <module name="ch0401-bean-init" />
+        <module name="ch0402-initializing-bean" />
+        <module name="ch0403-post-construct" />
+        <module name="ch0404-initializing-bean-destroy" />
+        <module name="ch0405-disposable-bean" />
+        <module name="ch0406-post-construct-pre-destroy" />
+        <module name="ch0407-shutdown-hook" />
+        <module name="ch0408-bean-name-aware" />
+        <module name="ch0409-application-context-aware" />
+        <module name="ch0410-factory-bean" />
+        <module name="ch0411-accessing-factory-beans" />
+        <module name="ch0412-factory-bean-and-factory-method-attributes" />
+        <module name="ch0413-property-editors" />
+        <module name="ch0414-custom-property-editor" />
+        <module name="ch0415-message-source" />
+        <module name="ch0416-events" />
+        <module name="ch04167resource" />
+        <module name="ch0417-resource" />
+        <module name="ch0418-java-config" />
+        <module name="ch0419-java-config-message-provider" />
+        <module name="ch0420-profiles" />
+        <module name="ch0421-environment" />
+        <module name="ch0422-property-placeholder" />
+        <module name="ch0423-jsr330" />
+        <module name="ch0424-groovy-config-java" />
+        <module name="ch0425-groovy-config" />
+        <module name="ch0501-hello-world" />
+        <module name="ch0502-simple-before-advice" />
+        <module name="ch0503-security" />
+        <module name="ch0504-simple-after-returning-advice" />
+        <module name="ch0505-after-returning-advice-keygen" />
+        <module name="ch0506-simple-around-advice" />
+        <module name="ch0507-simple-throws-advice" />
+        <module name="ch0508-static-pointcut" />
+        <module name="ch0509-dynamic-pointcut" />
+        <module name="ch0510-simple-name-matching" />
+        <module name="ch0511-regex-pointcuts" />
+        <module name="ch0512-aspectj-regex-pointcuts" />
+        <module name="ch0513-annotation-pointcut" />
+        <module name="ch0514-cglib-performance" />
+        <module name="ch0515-cflow-pointcuts" />
+        <module name="ch0516-composable-pointcut" />
+        <module name="ch0517-modification-introduction" />
+        <module name="ch0518-proxyfactorybean" />
+        <module name="ch0519-proxyfactorybean-introduction" />
+        <module name="ch0520-aop-namespace" />
+        <module name="ch0521-aspectj-annotations" />
+        <module name="ch0522-aspectj-aspects" />
+        <module name="ch0601-plain-jdbc" />
+        <module name="ch0603-spring-jdbc-namedparam" />
+        <module name="ch0604-spring-jdbc-rowmapper" />
+        <module name="ch0605-spring-jdbc-rowmapper-lambda" />
+        <module name="ch0606-spring-jdbc-resultsetextractor" />
+        <module name="ch0607-spring-jdbc-resultsetextractor-lambda" />
+        <module name="ch0608-spring-jdbc-annotations" />
+        <module name="ch0609-spring-jdbc-annotations-lambda" />
+        <module name="ch0801-spring-data-jpa" />
+        <module name="ch0801-transactions-programatic" />
+        <module name="ch0802-jpa-criteria" />
+        <module name="ch0803-spring-data-jpa-audit" />
+        <module name="ch0804-hibernate-envers" />
+        <module name="ch0805-jpa-crud" />
+        <module name="ch0901-transactions-programatic" />
+        <module name="ch0902-transactions-jta" />
+        <module name="ch0903-transactions-xml" />
+        <module name="ch0904-transactions-annotation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch0201-hello-world" target="1.8" />
+      <module name="ch0301-dependency-pull" target="1.8" />
+      <module name="ch0302-cdl" target="1.8" />
+      <module name="ch0303-constructor-injection" target="1.8" />
+      <module name="ch0304-setter-injection" target="1.8" />
+      <module name="ch0305-simple-types" target="1.8" />
+      <module name="ch0306-method-injection" target="1.8" />
+      <module name="ch0307-method-replacement" target="1.8" />
+      <module name="ch0308-bean-aliases" target="1.8" />
+      <module name="ch0309-bean-instantiation-mode" target="1.8" />
+      <module name="ch0310-bean-autowiring" target="1.8" />
+      <module name="ch0311-bean-inheritance" target="1.8" />
+      <module name="ch0312-collections" target="1.8" />
+      <module name="ch0313-injection" target="1.8" />
+      <module name="ch0314-nesting" target="1.8" />
+      <module name="ch0401-bean-init" target="1.8" />
+      <module name="ch0402-initializing-bean" target="1.8" />
+      <module name="ch0403-post-construct" target="1.8" />
+      <module name="ch0404-initializing-bean-destroy" target="1.8" />
+      <module name="ch0405-disposable-bean" target="1.8" />
+      <module name="ch0406-post-construct-pre-destroy" target="1.8" />
+      <module name="ch0407-shutdown-hook" target="1.8" />
+      <module name="ch0408-bean-name-aware" target="1.8" />
+      <module name="ch0409-application-context-aware" target="1.8" />
+      <module name="ch0410-factory-bean" target="1.8" />
+      <module name="ch0411-accessing-factory-beans" target="1.8" />
+      <module name="ch0412-factory-bean-and-factory-method-attributes" target="1.8" />
+      <module name="ch0413-property-editors" target="1.8" />
+      <module name="ch0414-custom-property-editor" target="1.8" />
+      <module name="ch0415-message-source" target="1.8" />
+      <module name="ch0416-events" target="1.8" />
+      <module name="ch04167resource" target="1.5" />
+      <module name="ch0417-resource" target="1.8" />
+      <module name="ch0418-java-config" target="1.8" />
+      <module name="ch0419-java-config-message-provider" target="1.8" />
+      <module name="ch0420-profiles" target="1.8" />
+      <module name="ch0421-environment" target="1.8" />
+      <module name="ch0422-property-placeholder" target="1.8" />
+      <module name="ch0423-jsr330" target="1.8" />
+      <module name="ch0424-groovy-config-java" target="1.8" />
+      <module name="ch0425-groovy-config" target="1.8" />
+      <module name="ch0501-hello-world" target="1.8" />
+      <module name="ch0502-simple-before-advice" target="1.8" />
+      <module name="ch0503-security" target="1.8" />
+      <module name="ch0504-simple-after-returning-advice" target="1.8" />
+      <module name="ch0505-after-returning-advice-keygen" target="1.8" />
+      <module name="ch0506-simple-around-advice" target="1.8" />
+      <module name="ch0507-simple-throws-advice" target="1.8" />
+      <module name="ch0508-static-pointcut" target="1.8" />
+      <module name="ch0509-dynamic-pointcut" target="1.8" />
+      <module name="ch0510-simple-name-matching" target="1.8" />
+      <module name="ch0511-regex-pointcuts" target="1.8" />
+      <module name="ch0512-aspectj-regex-pointcuts" target="1.8" />
+      <module name="ch0513-annotation-pointcut" target="1.8" />
+      <module name="ch0514-cglib-performance" target="1.8" />
+      <module name="ch0515-cflow-pointcuts" target="1.8" />
+      <module name="ch0516-composable-pointcut" target="1.8" />
+      <module name="ch0517-modification-introduction" target="1.8" />
+      <module name="ch0518-proxyfactorybean" target="1.8" />
+      <module name="ch0519-proxyfactorybean-introduction" target="1.8" />
+      <module name="ch0520-aop-namespace" target="1.8" />
+      <module name="ch0521-aspectj-annotations" target="1.8" />
+      <module name="ch0522-aspectj-aspects" target="1.8" />
+      <module name="ch0601-plain-jdbc" target="1.8" />
+      <module name="ch0602-spring-jdbc-embedded" target="1.8" />
+      <module name="ch0603-spring-jdbc-namedparam" target="1.8" />
+      <module name="ch0604-spring-jdbc-rowmapper" target="1.8" />
+      <module name="ch0605-spring-jdbc-rowmapper-lambda" target="1.8" />
+      <module name="ch0606-spring-jdbc-resultsetextractor" target="1.8" />
+      <module name="ch0607-spring-jdbc-resultsetextractor-lambda" target="1.8" />
+      <module name="ch0608-spring-jdbc-annotations" target="1.8" />
+      <module name="ch0609-spring-jdbc-annotations-lambda" target="1.8" />
+      <module name="ch0701-hibernate-crud" target="1.8" />
+      <module name="ch0801-spring-data-jpa" target="1.8" />
+      <module name="ch0801-transactions-programatic" target="1.5" />
+      <module name="ch0802-jpa-criteria" target="1.8" />
+      <module name="ch0803-spring-data-jpa-audit" target="1.8" />
+      <module name="ch0804-hibernate-envers" target="1.8" />
+      <module name="ch0805-jpa-crud" target="1.8" />
+      <module name="ch0901-transactions-programatic" target="1.8" />
+      <module name="ch0902-transactions-jta" target="1.8" />
+      <module name="ch0903-transactions-xml" target="1.8" />
+      <module name="ch0904-transactions-annotation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

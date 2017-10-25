@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0af4c5b-5069-49ef-97e8-c4dc5739462b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/ch0302-cdl/target/" />
+    <ignored path="$PROJECT_DIR$/ch0304-setter-injection/target/" />
+    <ignored path="$PROJECT_DIR$/ch0201-hello-world/target/" />
+    <ignored path="$PROJECT_DIR$/ch0303-constructor-injection/target/" />
+    <ignored path="$PROJECT_DIR$/ch0301-dependency-pull/target/" />
+    <ignored path="$PROJECT_DIR$/ch0305-simple-types/target/" />
+    <ignored path="$PROJECT_DIR$/ch0307-method-replacement/target/" />
+    <ignored path="$PROJECT_DIR$/ch0308-bean-aliases/target/" />
+    <ignored path="$PROJECT_DIR$/ch0309-bean-instantiation-mode/target/" />
+    <ignored path="$PROJECT_DIR$/ch0306-method-injection/target/" />
+    <ignored path="$PROJECT_DIR$/ch0310-bean-autowiring/target/" />
+    <ignored path="$PROJECT_DIR$/ch0311-bean-inheritance/target/" />
+    <ignored path="$PROJECT_DIR$/ch0313-injection/target/" />
+    <ignored path="$PROJECT_DIR$/ch0312-collections/target/" />
+    <ignored path="$PROJECT_DIR$/ch0401-bean-init/target/" />
+    <ignored path="$PROJECT_DIR$/ch0314-nesting/target/" />
+    <ignored path="$PROJECT_DIR$/ch0402-initializing-bean/target/" />
+    <ignored path="$PROJECT_DIR$/ch0403-post-construct/target/" />
+    <ignored path="$PROJECT_DIR$/ch0406-post-construct-pre-destroy/target/" />
+    <ignored path="$PROJECT_DIR$/ch0405-disposable-bean/target/" />
+    <ignored path="$PROJECT_DIR$/ch0407-shutdown-hook/target/" />
+    <ignored path="$PROJECT_DIR$/ch0404-initializing-bean-destroy/target/" />
+    <ignored path="$PROJECT_DIR$/ch0408-bean-name-aware/target/" />
+    <ignored path="$PROJECT_DIR$/ch0409-application-context-aware/target/" />
+    <ignored path="$PROJECT_DIR$/ch0411-accessing-factory-beans/target/" />
+    <ignored path="$PROJECT_DIR$/ch0410-factory-bean/target/" />
+    <ignored path="$PROJECT_DIR$/ch0413-property-editors/target/" />
+    <ignored path="$PROJECT_DIR$/ch0414-custom-property-editor/target/" />
+    <ignored path="$PROJECT_DIR$/ch0412-factory-bean-and-factory-method-attributes/target/" />
+    <ignored path="$PROJECT_DIR$/ch0416-events/target/" />
+    <ignored path="$PROJECT_DIR$/ch0415-message-source/target/" />
+    <ignored path="$PROJECT_DIR$/ch0417-resource/target/" />
+    <ignored path="$PROJECT_DIR$/ch0418-java-config/target/" />
+    <ignored path="$PROJECT_DIR$/ch0419-java-config-message-provider/target/" />
+    <ignored path="$PROJECT_DIR$/ch0420-profiles/target/" />
+    <ignored path="$PROJECT_DIR$/ch0422-property-placeholder/target/" />
+    <ignored path="$PROJECT_DIR$/ch0421-environment/target/" />
+    <ignored path="$PROJECT_DIR$/ch0423-jsr330/target/" />
+    <ignored path="$PROJECT_DIR$/ch0425-groovy-config/target/" />
+    <ignored path="$PROJECT_DIR$/ch0501-hello-world/target/" />
+    <ignored path="$PROJECT_DIR$/ch0424-groovy-config-java/target/" />
+    <ignored path="$PROJECT_DIR$/ch0502-simple-before-advice/target/" />
+    <ignored path="$PROJECT_DIR$/ch0503-security/target/" />
+    <ignored path="$PROJECT_DIR$/ch0505-after-returning-advice-keygen/target/" />
+    <ignored path="$PROJECT_DIR$/ch0504-simple-after-returning-advice/target/" />
+    <ignored path="$PROJECT_DIR$/ch0506-simple-around-advice/target/" />
+    <ignored path="$PROJECT_DIR$/ch0508-static-pointcut/target/" />
+    <ignored path="$PROJECT_DIR$/ch0507-simple-throws-advice/target/" />
+    <ignored path="$PROJECT_DIR$/ch0510-simple-name-matching/target/" />
+    <ignored path="$PROJECT_DIR$/ch0509-dynamic-pointcut/target/" />
+    <ignored path="$PROJECT_DIR$/ch0511-regex-pointcuts/target/" />
+    <ignored path="$PROJECT_DIR$/ch0513-annotation-pointcut/target/" />
+    <ignored path="$PROJECT_DIR$/ch0515-cflow-pointcuts/target/" />
+    <ignored path="$PROJECT_DIR$/ch0512-aspectj-regex-pointcuts/target/" />
+    <ignored path="$PROJECT_DIR$/ch0514-cglib-performance/target/" />
+    <ignored path="$PROJECT_DIR$/ch0516-composable-pointcut/target/" />
+    <ignored path="$PROJECT_DIR$/ch0517-modification-introduction/target/" />
+    <ignored path="$PROJECT_DIR$/ch0519-proxyfactorybean-introduction/target/" />
+    <ignored path="$PROJECT_DIR$/ch0520-aop-namespace/target/" />
+    <ignored path="$PROJECT_DIR$/ch0518-proxyfactorybean/target/" />
+    <ignored path="$PROJECT_DIR$/ch0601-plain-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/ch0602-spring-jdbc-embedded/target/" />
+    <ignored path="$PROJECT_DIR$/ch0522-aspectj-aspects/target/" />
+    <ignored path="$PROJECT_DIR$/ch0521-aspectj-annotations/target/" />
+    <ignored path="$PROJECT_DIR$/ch0603-spring-jdbc-namedparam/target/" />
+    <ignored path="$PROJECT_DIR$/ch0605-spring-jdbc-rowmapper-lambda/target/" />
+    <ignored path="$PROJECT_DIR$/ch0606-spring-jdbc-resultsetextractor/target/" />
+    <ignored path="$PROJECT_DIR$/ch0604-spring-jdbc-rowmapper/target/" />
+    <ignored path="$PROJECT_DIR$/ch0608-spring-jdbc-annotations/target/" />
+    <ignored path="$PROJECT_DIR$/ch0607-spring-jdbc-resultsetextractor-lambda/target/" />
+    <ignored path="$PROJECT_DIR$/ch0609-spring-jdbc-annotations-lambda/target/" />
+    <ignored path="$PROJECT_DIR$/ch0801-transactions-programatic/target/" />
+    <ignored path="$PROJECT_DIR$/ch0701-hibernate-crud/target/" />
+    <ignored path="$PROJECT_DIR$/ch0801-spring-data-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/ch0803-spring-data-jpa-audit/target/" />
+    <ignored path="$PROJECT_DIR$/ch0804-hibernate-envers/target/" />
+    <ignored path="$PROJECT_DIR$/ch0802-jpa-criteria/target/" />
+    <ignored path="$PROJECT_DIR$/ch0805-jpa-crud/target/" />
+    <ignored path="$PROJECT_DIR$/ch0902-transactions-jta/target/" />
+    <ignored path="$PROJECT_DIR$/ch0901-transactions-programatic/target/" />
+    <ignored path="$PROJECT_DIR$/ch0903-transactions-xml/target/" />
+    <ignored path="$PROJECT_DIR$/ch0904-transactions-annotation/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ch0904-transactions-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0601-plain-jdbc/src/main/java/com/apress/prospring4/ch6/PlainContactDao.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1690" />
+    <option name="y" value="124" />
+    <option name="width" value="1401" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0201-hello-world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0201-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0201-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0601-plain-jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0601-plain-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0601-plain-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0601-plain-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0601-plain-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ch6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0801-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0801-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0801-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0801-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProSpring4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch0801-spring-data-jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ch8" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PlainJdbcSample">
+    <configuration name="PlainJdbcSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.apress.prospring4.ch6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="krasa.grepconsole.plugin.runConfiguration.GrepRunConfigurationExtension" selectedProfileId="0" />
+      <option name="MAIN_CLASS_NAME" value="com.apress.prospring4.ch6.PlainJdbcSample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ch0601-plain-jdbc" />
+      <envs />
+    </configuration>
+    <configuration name="Target" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.apress.prospring4.ch3.xml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="krasa.grepconsole.plugin.runConfiguration.GrepRunConfigurationExtension" selectedProfileId="0" />
+      <option name="MAIN_CLASS_NAME" value="com.apress.prospring4.ch3.xml.Target" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ch0310-bean-autowiring" />
+      <envs />
+    </configuration>
+    <configuration name="TxAnnotationSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.apress.prospring4.ch9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="krasa.grepconsole.plugin.runConfiguration.GrepRunConfigurationExtension" selectedProfileId="0" />
+      <option name="MAIN_CLASS_NAME" value="com.apress.prospring4.ch9.TxAnnotationSample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ch0904-transactions-annotation" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="krasa.grepconsole.plugin.runConfiguration.GrepRunConfigurationExtension" selectedProfileId="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="krasa.grepconsole.plugin.runConfiguration.GrepRunConfigurationExtension" selectedProfileId="0" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="krasa.grepconsole.plugin.runConfiguration.GrepRunConfigurationExtension" selectedProfileId="0" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.TxAnnotationSample" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Target" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PlainJdbcSample" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.PlainJdbcSample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Target" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TxAnnotationSample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0af4c5b-5069-49ef-97e8-c4dc5739462b" name="Default" comment="" />
+      <created>1508898825254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508898825254</updated>
+      <workItem from="1508898827520" duration="767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="767000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="-29" width="1920" height="1057" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSON Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ch0904-transactions-annotation/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="88" column="42" lean-forward="false" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch0904-transactions-annotation/src/main/java/com/apress/prospring4/ch9/ContactServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch0904-transactions-annotation/src/main/java/com/apress/prospring4/ch9/TxAnnotationSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch0201-hello-world/src/main/java/com/apress/prospring4/ch2/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch0201-hello-world/src/main/java/com/apress/prospring4/ch2/HelloWorldDecoupled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch0310-bean-autowiring/src/main/java/com/apress/prospring4/ch3/xml/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="44" column="37" lean-forward="false" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch0601-plain-jdbc/src/main/java/com/apress/prospring4/ch6/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch0601-plain-jdbc/src/main/java/com/apress/prospring4/ch6/ContactDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch0601-plain-jdbc/src/main/java/com/apress/prospring4/ch6/PlainContactDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <marker date="1508899563000" expanded="true" signature="1148:1169" ph="SELECT * FRO... contact" />
+            <marker date="1508899563000" expanded="true" signature="2407:2479" ph="INSERT INTO Contact... " />
+            <marker date="1508899563000" expanded="true" signature="3383:3413" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch0601-plain-jdbc/src/main/java/com/apress/prospring4/ch6/PlainJdbcSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
