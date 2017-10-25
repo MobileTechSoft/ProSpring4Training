@@ -1,0 +1,31 @@
+Chapter 3
+
+- Phần setter injection: 
+
+Q:
+@Service("messageProvider")
+public class HelloWorldMessageProvider implements MessageProvider{}
+
+Nếu thay "messageProvider" bằng "" thì ở đoạn code sau có autowire đc k?
+
+    @Override
+    @Autowired
+    public void setMessageProvider(MessageProvider provider) {
+        this.messageProvider = provider;
+    }
+
+
+
+
+Answer: Có, chỉ cần giá trị setting đó là duy nhất là đc 
+Nếu có thêm 1 class 
+
+@Service("messageProvider1")
+public class HelloWorldMessageProvider1 implements MessageProvider{}
+
+thì việc autowire cũng thất bại "NoUniqueBeanDefinitionException"
+
+--> Sửa bằng cách thêm annotation @Primary vào 1 trong 2 class HelloWorldMessageProvider or HelloWorldMessageProvider1
+
+
+
